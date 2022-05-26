@@ -14,4 +14,4 @@ In order to realize the business task, six steps of data analysis were utilized 
 
 Raw data were retrieved from: **<a href="https://divvy-tripdata.s3.amazonaws.com/index.html" rel="nofollow">Cyclistic Bike Sharing Data</a>**
 
-Project portfolio: **<a href="l" rel="nofollow">Google Data Analytics Capstone Project</a>**
+Project portfolio: **<a href="https://medium.com/@calvin_huang97/google-data-analytics-certificate-capstone-project-3e9fae105cfa" rel="nofollow">Google Data Analytics Capstone Project</a>**
