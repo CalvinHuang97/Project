@@ -13,3 +13,4 @@ In order to realize the business task, the six steps of data analysis were utili
 - Act
 
 Raw data were retrieved from: **<a href="https://divvy-tripdata.s3.amazonaws.com/index.html" rel="nofollow">Cyclistic Bike Sharing Data</a>**
+
