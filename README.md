@@ -1,4 +1,4 @@
-# How do casual riders compare to membership riders?
+# How Do Casual Riders Compare To Membership Riders?
 
 ## Introduction
 
